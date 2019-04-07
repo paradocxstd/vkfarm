@@ -17,13 +17,13 @@ const Home = ({ id, go, fetchedUser }) => (
 
 		<Group title="Name">
 			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="bitcoin">
-					Show me the Bitcoin, please
+				<Button size="x1" level="2" onClick={go} data-to="bitcoin">
+					Show me the Bitcoin
 				</Button>
 			</Div>
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="litecoin">
-					Show me the Litecoin, please
+					Show me the Litecoin
 				</Button>
 			</Div>
 
