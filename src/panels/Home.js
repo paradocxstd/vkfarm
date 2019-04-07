@@ -4,7 +4,7 @@ import { Panel, ListItem, Button, Group, Div, Avatar, PanelHeader } from '@vkont
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Example</PanelHeader>
+		<PanelHeader>Crypto</PanelHeader>
 		{fetchedUser &&
 		<Group title="User Data Fetched with VK Connect">
 			<ListItem
@@ -15,12 +15,18 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-		<Group title="pupka">
+		<Group title="Name">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Show me the Bitcoin, please
 				</Button>
 			</Div>
+			<Div>
+				<Button size="xl" level="2" onClick={go} data-to="BTC">
+					Show me the Bitcoin, please
+				</Button>
+			</Div>
+
 		</Group>
 	</Panel>
 );
