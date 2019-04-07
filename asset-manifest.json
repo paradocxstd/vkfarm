@@ -1,16 +1,18 @@
 {
   "main.css": "/vkfarm/static/css/main.f03f2eaf.chunk.css",
-  "main.js": "/vkfarm/static/js/main.2398cc59.chunk.js",
-  "main.js.map": "/vkfarm/static/js/main.2398cc59.chunk.js.map",
+  "main.js": "/vkfarm/static/js/main.4b92c7d1.chunk.js",
+  "main.js.map": "/vkfarm/static/js/main.4b92c7d1.chunk.js.map",
   "runtime~main.js": "/vkfarm/static/js/runtime~main.64db1eca.js",
   "runtime~main.js.map": "/vkfarm/static/js/runtime~main.64db1eca.js.map",
   "static/css/2.7a1a4758.chunk.css": "/vkfarm/static/css/2.7a1a4758.chunk.css",
-  "static/js/2.c69ef10c.chunk.js": "/vkfarm/static/js/2.c69ef10c.chunk.js",
-  "static/js/2.c69ef10c.chunk.js.map": "/vkfarm/static/js/2.c69ef10c.chunk.js.map",
+  "static/js/2.9492f69a.chunk.js": "/vkfarm/static/js/2.9492f69a.chunk.js",
+  "static/js/2.9492f69a.chunk.js.map": "/vkfarm/static/js/2.9492f69a.chunk.js.map",
   "index.html": "/vkfarm/index.html",
-  "precache-manifest.5c6c88f8452310d14431c809cd0a23c2.js": "/vkfarm/precache-manifest.5c6c88f8452310d14431c809cd0a23c2.js",
+  "precache-manifest.f21056f4d0d0a9b765c7abd56f9f1e6a.js": "/vkfarm/precache-manifest.f21056f4d0d0a9b765c7abd56f9f1e6a.js",
   "service-worker.js": "/vkfarm/service-worker.js",
   "static/css/2.7a1a4758.chunk.css.map": "/vkfarm/static/css/2.7a1a4758.chunk.css.map",
   "static/css/main.f03f2eaf.chunk.css.map": "/vkfarm/static/css/main.f03f2eaf.chunk.css.map",
+  "static/media/BTC.png": "/vkfarm/static/media/BTC.ca0efbf4.png",
+  "static/media/LTC.png": "/vkfarm/static/media/LTC.c32cbdda.png",
   "static/media/persik.png": "/vkfarm/static/media/persik.4e1ec840.png"
 }
