@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://paradocxstd.github.io/vkfarm/",
-
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-      },
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
