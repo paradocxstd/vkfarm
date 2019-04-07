@@ -44,6 +44,8 @@ class App extends React.Component {
 				<LTC id="litecoin" go={this.go} />
 			</View>
 
+		
+			
 
 
 		);

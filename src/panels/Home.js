@@ -22,11 +22,11 @@ const Home = ({ id, go, fetchedUser }) => (
 				</Button>
 			</Div>
 			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="litecoin">
+				<Button size="x1" level="2" onClick={go} data-to="litecoin">
 					Show me the Litecoin
 				</Button>
 			</Div>
-
+				
 		</Group>
 	</Panel>
 );

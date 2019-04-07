@@ -17,7 +17,9 @@ const BTC= props => (
 		>
 			BTC
 		</PanelHeader>
-		<img className="BTC" src={bitcoin} alt="BTC crypto"/>
+
+
+		<img className="BTC" src={bitcoin} alt="Btc crypto"/>
 	</Panel>
 );
 
