@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/vkfarm/static/js/runtime~main.64db1eca.js"
   },
   {
-    "revision": "71075b8bcc20298dbcf5",
-    "url": "/vkfarm/static/js/main.71075b8b.chunk.js"
+    "revision": "daec462db98c79fd5c73",
+    "url": "/vkfarm/static/js/main.daec462d.chunk.js"
   },
   {
     "revision": "c69ef10c400182063a35",
     "url": "/vkfarm/static/js/2.c69ef10c.chunk.js"
   },
   {
-    "revision": "71075b8bcc20298dbcf5",
+    "revision": "daec462db98c79fd5c73",
     "url": "/vkfarm/static/css/main.f03f2eaf.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/vkfarm/static/css/2.7a1a4758.chunk.css"
   },
   {
-    "revision": "92d62652dde249de57272c36a29a8493",
+    "revision": "58ec67b52d20baca60836e861203b0cc",
     "url": "/vkfarm/index.html"
   }
 ];
