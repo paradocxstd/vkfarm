@@ -16,23 +16,23 @@ self.__precacheManifest = [
     "url": "/vkfarm/static/js/runtime~main.64db1eca.js"
   },
   {
-    "revision": "4b92c7d11da11242be57",
-    "url": "/vkfarm/static/js/main.4b92c7d1.chunk.js"
+    "revision": "367d1c76950824dc28a6",
+    "url": "/vkfarm/static/js/main.367d1c76.chunk.js"
   },
   {
-    "revision": "9492f69aa3614ccc1bfa",
-    "url": "/vkfarm/static/js/2.9492f69a.chunk.js"
+    "revision": "6d35b16e193202284de2",
+    "url": "/vkfarm/static/js/2.6d35b16e.chunk.js"
   },
   {
-    "revision": "4b92c7d11da11242be57",
-    "url": "/vkfarm/static/css/main.f03f2eaf.chunk.css"
+    "revision": "367d1c76950824dc28a6",
+    "url": "/vkfarm/static/css/main.c7a94fda.chunk.css"
   },
   {
-    "revision": "9492f69aa3614ccc1bfa",
+    "revision": "6d35b16e193202284de2",
     "url": "/vkfarm/static/css/2.7a1a4758.chunk.css"
   },
   {
-    "revision": "3fa788a67b82c02ab9080947c6cb53f1",
+    "revision": "44bd43d4ade8d458da0bbe5fc680acc7",
     "url": "/vkfarm/index.html"
   }
 ];
