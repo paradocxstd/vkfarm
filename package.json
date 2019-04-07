@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.2.0",
+    "gh-pages": "^2.0.1",
     "react-hot-loader": "^4.7.1",
     "react-scripts": "^2.1.5"
   },
